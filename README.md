@@ -18,7 +18,7 @@ KELAS : SKU3A
 
 3. Tugas Percobaan 3 Group
 
-   <img width="560" height="418" alt="Foto_4" src="https://github.com/user-attachments/assets/f2d32279-ede3-4238-87ec-f6fcf0bb980e" />
+   <img width="1092" height="812" alt="WhatsApp Image 2026-10-05 at 23 58 21" src="https://github.com/user-attachments/assets/cd59cf70-b6d7-4249-ade0-83783344c27c" />
 
    <img width="577" height="436" alt="Foto_5" src="https://github.com/user-attachments/assets/0fef4300-6f42-4449-9e8a-94bccd926155" />
 
